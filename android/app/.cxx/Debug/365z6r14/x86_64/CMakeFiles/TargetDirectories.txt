@@ -1,0 +1,2 @@
+D:/Route Academy/Flutter Projects/path_to_Paradise/android/app/.cxx/Debug/365z6r14/x86_64/CMakeFiles/edit_cache.dir
+D:/Route Academy/Flutter Projects/path_to_Paradise/android/app/.cxx/Debug/365z6r14/x86_64/CMakeFiles/rebuild_cache.dir

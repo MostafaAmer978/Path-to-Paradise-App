@@ -33,6 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     var provider = Provider.of<MyProvider>(context);
     return Stack(
+
       children: [
         Image.asset(
           provider.getBackgroundPath(),
@@ -41,6 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
         Scaffold(
           appBar: AppBar(
+            scrolledUnderElevation: 0,
             title: const Text("islami").tr(),
           ),
           bottomNavigationBar: BottomNavigationBar(
